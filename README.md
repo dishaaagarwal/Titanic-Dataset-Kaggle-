@@ -1,2 +1,2 @@
-# Titanic-Dataset-Kaggle-
+# Titanic Dataset-
 Titanic dataset using SVM
